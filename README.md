@@ -5,13 +5,13 @@
 # Installation
 - pip
 ```
-pip3 install fuconv
+pip3 install fuconv==0.0.2
 ```
 - setup tools
 ```
 git clone https://github.com/root-tanishq/fuconv
 cd fuconv
-python3 setup.py install
+sudo python3 setup.py install
 ```
 ---
 # Usage

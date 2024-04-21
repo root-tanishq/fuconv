@@ -6,7 +6,7 @@ def readme():
 
 setup(
     name='fuconv',
-    version='0.0.1',
+    version='0.0.2',
     long_description=readme(),
     long_description_content_type="text/markdown",
     description='uint and hex values converter for solidity CTFs',
